@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "carfima"]
+	path = carfima
+	url = https://github.com/cran/carfima
+	shallow = true
+	registered = true
+[submodule "h0"]
+	path = h0
+	url = https://github.com/cran/h0
+	shallow = true
+	registered = true
+[submodule "Rdrw"]
+	path = Rdrw
+	url = https://github.com/cran/Rdrw
+	shallow = true
+	registered = true
+[submodule "Rdta"]
+	path = Rdta
+	url = https://github.com/cran/Rdta
+	shallow = true
+	registered = true
+[submodule "timedelay"]
+	path = timedelay
+	url = https://github.com/cran/timedelay
+	shallow = true
+	registered = true
