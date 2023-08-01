@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "carfima"]
-	path = carfima
-	url = https://github.com/cran/carfima
-[submodule "h0"]
-	path = h0
-	url = https://github.com/cran/h0
 [submodule "Rdrw"]
 	path = Rdrw
 	url = https://github.com/cran/Rdrw
 [submodule "Rdta"]
 	path = Rdta
 	url = https://github.com/cran/Rdta
+[submodule "carfima"]
+	path = carfima
+	url = https://github.com/cran/carfima
+[submodule "h0"]
+	path = h0
+	url = https://github.com/cran/h0
 [submodule "timedelay"]
 	path = timedelay
 	url = https://github.com/cran/timedelay
